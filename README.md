@@ -1,2 +1,5 @@
 # lmnop
-isomorphic dot paper maker
+
+isomorphic dot paper maker, for lettering practice
+
+![](lmnop.jpeg)
